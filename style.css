@@ -119,7 +119,7 @@ a {
 .todo {
   background: var(--surface);
   padding: 2px 8px;
-  border-left: 3px solid var(--orange);
+  border-left: 3px solid var(--text);
   font-weight: 700;
 }
 
@@ -143,4 +143,4 @@ footer.site {
   line-height: 1.7;
 }
 
-:focus-visible { outline: 2px solid var(--orange); outline-offset: 2px; }
+:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
